@@ -1,0 +1,27 @@
+{
+  "name": "@careteen/cra-template",
+  "version": "0.0.4",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "CareteenL <15074806497@163.com>",
+  "description": "The base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/careteenL/create-react-app.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/careteenL/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
